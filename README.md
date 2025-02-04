@@ -1,4 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile
+## Ferramentas e Tecnologias:
 <i class="devicon-python-plain"></i>
 
 <!--
