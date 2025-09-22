@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile
-## I'm learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+## I'm learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg" width="40" height="40"/>
+
 
 <!--
 **annat0rres/annat0rres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
