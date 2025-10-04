@@ -1,6 +1,10 @@
 ## 👋 Hello! Welcome to my Github profile
 ## I'm learning: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z3ob7vvxc190h3rf5f7szz9b4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=f4a4c0&interchange=false&mode=light&bar_color=ffffff&bar_color_cover=false">
+  </a>
+</p>
 
 <!--
 **annat0rres/annat0rres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
