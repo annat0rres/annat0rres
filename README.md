@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=annat0rres&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annat0rres)](https://github.com/annat0rres/github-readme-stats)
 </div>
 --<div>
 <p align="center">
