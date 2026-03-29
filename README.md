@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/annat0rres">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annat0rres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annat0rres&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annat0rres&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffe4ec&title_color=ff6f91&text_color=ff85a1&icon_color=ff6f91&border_color=ffb6c1"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annat0rres&layout=compact&bg_color=ffe4ec&title_color=ff6f91&text_color=ff85a1&border_color=ffb6c1"/>
   </a>
 </div>
 
