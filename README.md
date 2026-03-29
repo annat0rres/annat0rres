@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
 
-### Oi! Me chamo Anna Torres ❀
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!+Me+chamo+Anna+Torres+❀;)](https://git.io/typing-svg)
 
 - 🩰 Estudando Frontend (principalmente) & Backend
 - 🦢 Sou aluna do IFRN, cursando Técnico em Informática
