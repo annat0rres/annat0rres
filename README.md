@@ -1,3 +1,5 @@
+<img width=100% src="https://ca´psule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"
+
 ### Oi! Me chamo Anna Torres ❀
 
 - 🩰 Estudando Frontend (principalmente) & Backend
