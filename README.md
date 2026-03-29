@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/annat0rres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annat0rres&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annat0rres&layout=compact&theme=rose_pine"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annat0rres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annat0rres&layout=compact&theme=radical"/>
   </a>
 </div>
 
