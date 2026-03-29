@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi!+Me+chamo+Anna+Torres+❀;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F76F8D&lines=Oi!+Me+chamo+Anna+Torres+❀;)](https://git.io/typing-svg)
 
 - 🩰 Estudando Frontend (principalmente) & Backend
 - 🦢 Sou aluna do IFRN, cursando Técnico em Informática
