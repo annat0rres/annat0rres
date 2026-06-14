@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F76F8D&lines=Oi!+Me+chamo+Anna+Torres+❀;)](https://git.io/typing-svg)
 
-- 🩰 Estudando Frontend (principalmente) & Backend  
-- 🦢 Sou aluna do IFRN, cursando Técnico em Informática  
-- 🎀 Pronouns: Ela/She  
+- Estudando Frontend (principalmente) & Backend  
+- Sou aluna do IFRN, cursando Técnico em Informática  
+- Pronomes: Ela/She  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
