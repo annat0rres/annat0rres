@@ -15,20 +15,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/annat0rres">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annat0rres&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffe4ec&title_color=ff6f91&text_color=ff85a1&icon_color=ff6f91&border_color=ffb6c1"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=annat0rres&layout=compact&bg_color=ffe4ec&title_color=ff6f91&text_color=ff85a1&border_color=ffb6c1"/>
-  </a>
-</div>
-
-<br>
-
-<div>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z3ob7vvxc190h3rf5f7szz9b4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=f4a4c0&interchange=false&mode=light&bar_color=ffffff&bar_color_cover=false">
-  </a>
-</p>
-</div>
